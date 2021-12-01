@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["The Boi", "snowman", [125, 255, 245]],
+		["Imitation", "snowman", [125, 255, 245]]
+	],
+
+	"weekCharacters": [
+		"snowman",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "winterhappy",
+
+	"storyName": "Smol Boi Mischief",
+	"weekBefore": "tutorial",
+	"weekName": "Week BOI",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
